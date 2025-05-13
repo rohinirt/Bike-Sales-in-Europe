@@ -4,8 +4,11 @@ Tableau Public Link: https://public.tableau.com/app/profile/rohini.tembhurnikar/
 In a rapidly growing competitive market, understanding customer purchasing behavior and identifying high-performing products is critical for any retail business. This project aims to help a bike company gain actionable insights into sales performance, profitability, and customer segmentation by analyzing historical transaction data.
 The goal is to support data-driven decision-making across sales, marketing, and inventory management by answering key questions like:
 Which age group contributes the most to revenue?
+
 Which product categories and bike models are driving profitability?
+
 How do discounts affect profit margins?
+
 What regions are most valuable in terms of sales?
 
 ## Dataset
